@@ -36,6 +36,9 @@ refinement/
 packages/
 !packages/repositories.config
 
+#########
+# Project files #
+#########
 Projects/*
 
 ##########################
