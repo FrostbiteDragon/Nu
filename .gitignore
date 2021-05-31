@@ -36,6 +36,8 @@ refinement/
 packages/
 !packages/repositories.config
 
+Projects/*
+
 ##########################
 # LibreOffice Temp Files #
 ##########################
